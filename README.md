@@ -1,2 +1,2 @@
 # analise-numerica
-Reposítório com as aulas de laboratório da disciplina de análise numérica.
+Repositório com as aulas de laboratório da disciplina de análise numérica.
